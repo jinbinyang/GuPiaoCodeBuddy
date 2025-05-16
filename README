@@ -1,0 +1,15 @@
+0.安装依赖
+pip install -r requirements.txt streamlit
+
+1. 打开命令提示符并导航到项目目录：
+cd D:\Github_Project\GuPiaoCodeBuddy
+
+2. 激活虚拟环境：
+.venv\Scripts\activate.bat
+
+3. 运行应用：
+streamlit run gupiao_codebuddy.py
+
+这样应用就会在本地启动，并在默认浏览器中打开。
+
+Local URL: http://localhost:8501
